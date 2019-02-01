@@ -1,5 +1,5 @@
 #!/bin/bash
-X=0.3
+X=0.6
 Y=0.4
 echo $X
 echo $Y
