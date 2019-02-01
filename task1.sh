@@ -1,6 +1,6 @@
 #!/bin/bash
 X=0.3
-Y=0.2
+Y=0.4
 echo $X
 echo $Y
 if  "$X -lt $Y" | bc  -l
